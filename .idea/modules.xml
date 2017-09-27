@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Exercise_ViewPager.iml" filepath="$PROJECT_DIR$/Exercise_ViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewpaperFragment.iml" filepath="$PROJECT_DIR$/ViewpaperFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewpaperFragment-master.iml" filepath="$PROJECT_DIR$/ViewpaperFragment-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

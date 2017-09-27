@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Exercise Viewpaper </string>
+    <string name="title_tab_1">I Like Reading Books.</string>
+    <string name="title_tab_2">I Like Watching Film.</string>
+    <string name="title_tab_3">I Like Listening To Music.</string>
+</resources>

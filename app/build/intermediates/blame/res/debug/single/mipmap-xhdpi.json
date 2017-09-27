@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\AndroidStudioProjects\\Exercise_ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "G:\\AndroidStudioProjects\\Exercise_ViewPager\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\Exercise_ViewPager\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "G:\\AndroidStudioProjects\\Exercise_ViewPager\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ViewpaperFragment-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "G:\\AndroidStudioProjects\\ViewpaperFragment-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\AndroidStudioProjects\\ViewpaperFragment-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "G:\\AndroidStudioProjects\\ViewpaperFragment-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]
